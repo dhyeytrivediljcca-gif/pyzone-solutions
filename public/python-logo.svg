@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110.4 110.4">
+  <defs>
+    <linearGradient id="a" x1="25.05" y1="109.3" x2="85.35" y2="1.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#387EB8"/>
+      <stop offset="1" stop-color="#366994"/>
+    </linearGradient>
+    <linearGradient id="b" x1="25.05" y1="109.3" x2="85.35" y2="1.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFE052"/>
+      <stop offset="1" stop-color="#FFC331"/>
+    </linearGradient>
+  </defs>
+  <path d="M55.2 0C38.7 0 39.6 7 39.6 7l.02 7.3h15.9v2.2H24.6S14.1 15.3 14.1 32c0 16.7 9.2 16.1 9.2 16.1h5.5v-7.8s-.3-9.2 9.1-9.2h15.7s8.8.1 8.8-8.5V8.7S63.8 0 55.2 0zm-8.7 5c1.6 0 2.8 1.3 2.8 2.8 0 1.6-1.3 2.8-2.8 2.8-1.6 0-2.8-1.3-2.8-2.8C43.7 6.3 44.9 5 46.5 5z" fill="url(#a)"/>
+  <path d="M55.2 110.4c16.5 0 15.6-7 15.6-7l-.02-7.3H54.9v-2.2h30.9s10.5 1.2 10.5-16.5c0-16.7-9.2-16.1-9.2-16.1h-5.5v7.8s.3 9.2-9.1 9.2H57.8s-8.8-.1-8.8 8.5v14.9s-1.3 8.7 6.2 8.7zm8.7-5c-1.6 0-2.8-1.3-2.8-2.8 0-1.6 1.3-2.8 2.8-2.8 1.6 0 2.8 1.3 2.8 2.8.1 1.6-1.2 2.8-2.8 2.8z" fill="url(#b)"/>
+</svg>

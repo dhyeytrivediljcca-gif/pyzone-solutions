@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
+  <defs>
+    <linearGradient id="pz-bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stopColor="#0f172a" />
+      <stop offset="100%" stopColor="#090d16" />
+    </linearGradient>
+    <linearGradient id="pz-blue-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stopColor="#38bdf8" />
+      <stop offset="100%" stopColor="#2563eb" />
+    </linearGradient>
+    <linearGradient id="pz-yellow-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stopColor="#fde047" />
+      <stop offset="100%" stopColor="#eab308" />
+    </linearGradient>
+  </defs>
+  <rect x="1.5" y="1.5" width="37" height="37" rx="10" fill="url(#pz-bg-grad)" stroke="#38bdf8" stroke-width="1.5" stroke-opacity="0.4"/>
+  <path d="M10 14L6 20L10 26" stroke="#38bdf8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+  <path d="M30 14L34 20L30 26" stroke="#facc15" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+  <path d="M13 13H19C21.2 13 22.5 14.3 22.5 16.5C22.5 18.7 21.2 20 19 20H15.5V27H13V13ZM15.5 15.2V17.8H18.7C19.8 17.8 20.3 17.3 20.3 16.5C20.3 15.7 19.8 15.2 18.7 15.2H15.5Z" fill="url(#pz-blue-grad)"/>
+  <path d="M21 21H27V22.8L23.4 25.4H27V27H20.8V25.2L24.4 22.6H21V21Z" fill="url(#pz-yellow-grad)"/>
+  <circle cx="20" cy="32.5" r="1.5" fill="#38bdf8" opacity="0.9"/>
+</svg>
